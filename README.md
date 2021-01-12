@@ -14,3 +14,6 @@ pip3 install pysimplegui
 Caso tenha já possua uma versão, apeans atualize usando o comando abaixo:
 sudo -H pip3 install --upgrade pip
 sudo -H pip2 install --upgrade pip
+
+Projeto 2 - Acerte o Número 
+

@@ -26,7 +26,7 @@ class ChuteNumero:
                     self.PedirValorAleatorio()
                 if int(self.valor_do_chute) == self.valor_aleatorio:
                     self.tentar_novamente = False
-                print('Parabéns você acertou!! ')
+                    print('Parabéns você acertou!! ')
         except:   
             print('Favor digitar apenas números !!!')
             self.Iniciar()
