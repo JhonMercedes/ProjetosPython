@@ -15,5 +15,8 @@ Caso tenha já possua uma versão, apeans atualize usando o comando abaixo:
 sudo -H pip3 install --upgrade pip
 sudo -H pip2 install --upgrade pip
 
+Proejto 1 - Simulador de Dado
+
 Projeto 2 - Acerte o Número 
 
+Projeto 3 - Decida por Mim 
