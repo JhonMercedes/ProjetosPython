@@ -17,4 +17,4 @@ class DecidaPorMim:
         print(random.choice(self.respostas))
 
 decida = DecidaPorMim()
-decida.Iniciar()
+decida.Iniciar()*
